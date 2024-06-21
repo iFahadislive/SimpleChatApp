@@ -38,6 +38,7 @@ dependencies:
   firebase_auth:
   firebase_core:
   cloud_firestore:
+  flutter_screenutil:
 
 dev_dependencies:
   flutter_test:
