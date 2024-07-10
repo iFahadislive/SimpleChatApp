@@ -8,7 +8,6 @@ import '../services/auth/auth_services.dart';
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
 
-
   void signOut(){
     final authServices = AuthServices();
     authServices.signOut();
